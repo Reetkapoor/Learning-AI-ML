@@ -1,2 +1,2 @@
-# Learning-AI-ML
-### This repository will contain all the files that i create for practice in various topics. 
+# Learning AI/ML
+### This repo contains everything I’m learning in AI/ML — practice files, notes, and experiments, mostly done in Jupyter Notebooks.
